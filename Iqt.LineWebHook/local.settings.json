@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AzureStorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=iboservice;AccountKey=pd4m+fDIqVcWGa/n/JzpxSLk0jBr/6mm96VGMF6gCkFaYREzJYUp/JD3Vvq/pgVFwBmtuVOlF89DSl4Cl9nyWg==;EndpointSuffix=core.windows.net",
+    "RedisConnectionString": "iboservice.redis.cache.windows.net:6379,password=8W8Mhm+fVsP5PqS+4YezhLReCTrySG3dgteu4VV11vY=,ssl=False,abortConnect=False,syncTimeout=10000",
+    "EventGridTopicEndpoint": "https://test.eastasia-1.eventgrid.azure.net/api/events",
+    "EventGridTopicKey": "J+9iiCQLVlQjrHBiKL6jM98r+t3KoZcjgmejrMTTlC8="
+  },
+  "Host": {
+    "LocalHttpPort": 7071,
+    "CORS": "*"
+  }
+}

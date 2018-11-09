@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Iqt.LineWebHook": {
+      "commandName": "Project",
+      "commandLineArgs": "host start --pause-on-error"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iqt.LineWebHook", "Iqt.LineWebHook\Iqt.LineWebHook.csproj", "{96B5ED3E-5CE8-4577-B4A2-8C8168D9D064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iqt.LineWebHook.Models", "Iqt.LineWebHook.Models\Iqt.LineWebHook.Models.csproj", "{B24405A0-81C4-4514-BFC5-B4AA2BC1159B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96B5ED3E-5CE8-4577-B4A2-8C8168D9D064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96B5ED3E-5CE8-4577-B4A2-8C8168D9D064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96B5ED3E-5CE8-4577-B4A2-8C8168D9D064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96B5ED3E-5CE8-4577-B4A2-8C8168D9D064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B24405A0-81C4-4514-BFC5-B4AA2BC1159B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24405A0-81C4-4514-BFC5-B4AA2BC1159B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24405A0-81C4-4514-BFC5-B4AA2BC1159B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24405A0-81C4-4514-BFC5-B4AA2BC1159B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC2D8E43-42B3-421E-972D-F0E9DDDA1D3F}
+	EndGlobalSection
+EndGlobal
